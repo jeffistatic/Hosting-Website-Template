@@ -1,0 +1,2 @@
+# Landing Page Template
+Enjoy :)
